@@ -53,5 +53,5 @@ but if you want to enter as a admin or super admin you can register using postma
 
 by changing the role to ADMIN ,or SUP_ADMIN and take the generated token when login you can enter as an admin
 
-feel free to reach me, thanks for your time .
+and that's it, thanks for your time and feel free to reach me, .
 
