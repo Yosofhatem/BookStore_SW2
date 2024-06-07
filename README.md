@@ -36,12 +36,12 @@ The front-end u can run it using npm start .
 
 Implement distinct user roles:
   Super Admin: Highest privilege, manages all aspects of the system.
-       - Create, edit, and deactivate admin and user accounts.
-       - Manage user roles and permissions.
+- Create, edit, and deactivate admin and user accounts.
+- Manage user roles and permissions.
   
   Admin: Manages bookstore operations.
-       - Add, edit, and delete book information (title, author, genre, etc.)
-       - Create and manage user accounts.
+- Add, edit, and delete book information (title, author, genre, etc.)
+- Create and manage user accounts.
 
 
 
