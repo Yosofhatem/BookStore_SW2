@@ -43,5 +43,8 @@ Implement distinct user roles:
 - Add, edit, and delete book information (title, author, genre, etc.)
 - Create and manage user accounts.
 
+## Note:
+you can enter as a user with the registeration button 
 
+but if you want to enter as a admin or super admin u can register using this postman
 
