@@ -9,4 +9,39 @@ just open visual studio code, copy this back-end code and run this commend in th
 
 The front-end u can run it using npm start .
 
+## key feature :
+
+### Secure User Management:
+
+- Leverage Spring Security for user authentication , authorization and of course JWT .
+- Implement different user roles (admin, super admin) with varying access levels.
+- Secure user sessions to manage access and prevent unauthorized activity.
+
+### Encrypted Data Storage:
+
+- Integrate AES encryption to safeguard sensitive customer and book information at rest.
+- This protects data from unauthorized access even if the system is breached.
+
+### Search and Filtering:
+
+- Enable efficient search for books by title, author, genre, or keyword.
+- Implement filters to sort inventory based on availability, price, format.
+
+### Genre Organization:
+
+- Categorize books by genre for intuitive browsing by users.
+- Allow for subcategories within genres for further organization.
+
+### Admin Features:
+
+Implement distinct user roles:
+  Super Admin: Highest privilege, manages all aspects of the system.
+       - Create, edit, and deactivate admin and user accounts.
+       - Manage user roles and permissions.
+  
+  Admin: Manages bookstore operations.
+       - Add, edit, and delete book information (title, author, genre, etc.)
+       - Create and manage user accounts.
+
+
 
