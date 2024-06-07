@@ -12,7 +12,7 @@ docker-compose is just for running the two container the back and the database t
 ## How to use?
 the back-end has an image that you can run on docker container in an easy way 
 just open visual studio code, copy this back-end code and run this commend in the terminal 
-*docker compose up -d* .
+** *docker compose up -d* **.
 
 The front-end u can run it using npm start .
 
