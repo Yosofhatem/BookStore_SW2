@@ -46,7 +46,12 @@ Implement distinct user roles:
 ## Note:
 you can enter as a user with the registeration button 
 
-but if you want to enter as a admin or super admin u can register using postman collection
+but if you want to enter as a admin or super admin you can register using postman collection
 
 
-![Capture](https://github.com/Yosofhatem/BookStore_SW2/assets/99391572/8ceccb7b-f5a6-4225-bd64-c46ba6db8d42)
+![register](https://github.com/Yosofhatem/BookStore_SW2/assets/99391572/b9bf98c2-362b-4546-a8db-d1161dad7ef0)
+
+by changing the role to ADMIN ,or SUP_ADMIN and take the generated token when login you can enter as an admin
+
+feel free to reach me, thanks for your time .
+
