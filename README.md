@@ -6,6 +6,8 @@ The database are an image that i pull the image MySQL from Dockerhup and make a 
 
 For the back-end all i do is make a docker file that copy my .jar file which has all my code and dependencies that all for any one take the code and run with no installiation for any thing.
 
+front-end is done by my teammate which i am so gratitude to .
+
 docker-compose is just for running the two container the back and the database togather.
 ## How to use?
 the back-end has an image that you can run on docker container in an easy way 
