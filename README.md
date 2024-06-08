@@ -4,7 +4,7 @@ The Bookstore Management System is a comprehensive web application  designed to 
 ## Side info:
 The database are an image that i pull the image MySQL from Dockerhup and make a connection with the back-end that no need to install the dependencies or any application  **"the power of Docker"**,
 
-For the back-end all i do is make a docker file that copy my .jar file which has all my code and dependencies that all for any one take the code and run with no installiation for any thing.
+For the back-end all i do is make a docker file that copy my .jar file which has all my code and dependencies that for any one take the code and run with no installiation for any thing.
 
 front-end is done by my teammate which i am so gratitude to .
 
